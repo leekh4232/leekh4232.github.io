@@ -4,10 +4,6 @@ layout: page
 permalink: "/about.html"
 ---
 
-# About
+## 안녕하세요. OOO입니다.
 
-## This is a page about the site
-
-### It's a site about stuff
-
-This is a page about the site. It's a site about stuff.
+컨텐츠 준비중 입니다.
