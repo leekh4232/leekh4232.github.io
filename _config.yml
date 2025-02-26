@@ -22,7 +22,7 @@ authors:
     Hossam:
       name:           Lee KwangHo
       site:           https://hossam.kr
-      avatar:         /assets/images/avatar1.jpg
+      avatar:         assets/images/avatar1.jpg
       bio:            "Just for fun"
       email:          leekh4232@gmail.com
       #twitter:        https://twitter.com/wowthemesnet
@@ -36,7 +36,7 @@ defaults:
     values:
       layout: post
       author: sal
-      avatar: /assets/images/avatar1.jpg
+      avatar: assets/images/avatar1.jpg
 
   # all pages
   - scope:
